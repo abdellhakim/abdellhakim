@@ -15,8 +15,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=abdellhakim&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abdellhakim&limit=5&theme=dark&combine_all_yearly_contributions=true)
+ <!--  ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=abdellhakim&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
